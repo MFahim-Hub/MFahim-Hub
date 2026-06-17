@@ -1,5 +1,11 @@
 Tech Stack
-SQL • Python • Excel • Tableau • Power BI • Azure
+
+SQL • Python (Panda) • Excel • Tableau • Power BI • Azure
+
+Languages
+
+SQL + Python
+
 
 
 
