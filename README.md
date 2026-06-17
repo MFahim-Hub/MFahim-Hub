@@ -1,16 +1,33 @@
-## Hi there 👋
+Tech Stack
+SQL • Python • Excel • Tableau • Power BI • Azure
 
-<!--
-**MFahim-Hub/MFahim-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+About Me
+First‑Class Business Management with Information Systems graduate developing practical skills across data analysis, database design, and cloud fundamentals. I enjoy working with data to create clear, structured insights and well‑documented solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Focus
+Building end‑to‑end data projects
+
+Strengthening SQL and Python for data cleaning and analysis
+
+Developing dashboards and reporting workflows
+
+Expanding cloud knowledge through Azure fundamentals
+
+
+Projects
+Relational database design
+
+Consumer behaviour analysis
+
+Data cleaning and transformation using SQL and Python
+
+Dashboard development in Tableau and Power BI
+
+
+Background
+Awarded Colleague of the Quarter for reliability, high standards, and strong communication. Currently completing the LeepTalent Data Technician Bootcamp to deepen technical capability and industry readiness.
+
+
+Interests
+Competitive gaming, cooking, reading, and continuous self‑development.
